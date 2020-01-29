@@ -10,7 +10,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="grapecity_order_embed.pdf">
+    <None Update="FormData_FDF.fdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="FormData_XFDF.xfdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="FormData_XML.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="grapecity_order_template.pdf">

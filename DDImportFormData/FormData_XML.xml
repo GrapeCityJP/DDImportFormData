@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fields xmlns:xfdf="http://ns.adobe.com/xfdf-transition/">
+  <undefined_3>On</undefined_3>
+  <undefined_4>Off</undefined_4>
+  <toggle_11>Off</toggle_11>
+  <undefined_5>Off</undefined_5>
+  <toggle_13>On</toggle_13>
+  <group_4>toggle_16</group_4>
+  <undefined_8>Off</undefined_8>
+  <undefined_9>Off</undefined_9>
+  <toggle_20>Off</toggle_20>
+  <月>７</月>
+  <年>2019</年>
+  <カード番号>1111222233334444</カード番号>
+  <名義人>TARO BUDOJO</名義人>
+  <ユーザーID></ユーザーID>
+  <会社名>ディオドック株式会社</会社名>
+  <氏名>葡萄城　太郎</氏名>
+  <フリガナ>ブドウジョウ　タロウ</フリガナ>
+  <TEL>022-777-8888</TEL>
+  <部署名>ピノタージュ</部署名>
+  <住所>M県S市広瀬区花京院3-1-4</住所>
+  <郵便番号>981-9999</郵便番号>
+  <日>23</日>
+  <見積番号>GC111-987654</見積番号>
+  <お客様注文番号>GC1234-5678</お客様注文番号>
+  <Email>tarou.budojo@grapecity.com</Email>
+  <通信欄>特になし</通信欄>
+  <会社名EU></会社名EU>
+  <氏名EU>葡萄城　太郎</氏名EU>
+  <英語表記EU></英語表記EU>
+  <フリガナEU>ブドウジョウ　タロウ</フリガナEU>
+  <部署名EU></部署名EU>
+  <TELEU>022-777-8888</TELEU>
+  <E-mailEU xfdf:original="E-mail EU"></E-mailEU>
+  <郵便番号EU></郵便番号EU>
+  <住所EU></住所EU>
+  <CheckBox25 xfdf:original="Check Box25">Í¢</CheckBox25>
+  <銀行振込>Off</銀行振込>
+  <クレジットカード>On</クレジットカード>
+  <個人EU>Off</個人EU>
+  <法人EU>On</法人EU>
+  <VISA>Off</VISA>
+  <Master>Off</Master>
+  <DC>Off</DC>
+  <JCB>On</JCB>
+  <Group1>@l</Group1>
+  <有効期限月 xfdf:original="有効期限/月">12</有効期限月>
+  <有効期限年 xfdf:original="有効期限/年">2020</有効期限年>
+</fields>

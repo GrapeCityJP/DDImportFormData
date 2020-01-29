@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xfdf xml:space="preserve" xmlns="http://ns.adobe.com/xfdf/">
+  <fields>
+    <field name="undefined_3">
+      <value>On</value>
+    </field>
+    <field name="undefined_4">
+      <value>Off</value>
+    </field>
+    <field name="toggle_11">
+      <value>Off</value>
+    </field>
+    <field name="undefined_5">
+      <value>Off</value>
+    </field>
+    <field name="toggle_13">
+      <value>On</value>
+    </field>
+    <field name="group_4">
+      <value>toggle_16</value>
+    </field>
+    <field name="undefined_8">
+      <value>Off</value>
+    </field>
+    <field name="undefined_9">
+      <value>Off</value>
+    </field>
+    <field name="toggle_20">
+      <value>Off</value>
+    </field>
+    <field name="月">
+      <value>７</value>
+    </field>
+    <field name="年">
+      <value>2019</value>
+    </field>
+    <field name="カード番号">
+      <value>1111222233334444</value>
+    </field>
+    <field name="名義人">
+      <value>TARO BUDOJO</value>
+    </field>
+    <field name="ユーザーID">
+      <value></value>
+    </field>
+    <field name="会社名">
+      <value>ディオドック株式会社</value>
+    </field>
+    <field name="氏名">
+      <value>葡萄城　太郎</value>
+    </field>
+    <field name="フリガナ">
+      <value>ブドウジョウ　タロウ</value>
+    </field>
+    <field name="TEL">
+      <value>022-777-8888</value>
+    </field>
+    <field name="部署名">
+      <value>ピノタージュ</value>
+    </field>
+    <field name="住所">
+      <value>M県S市広瀬区花京院3-1-4</value>
+    </field>
+    <field name="郵便番号">
+      <value>981-9999</value>
+    </field>
+    <field name="日">
+      <value>23</value>
+    </field>
+    <field name="見積番号">
+      <value>GC111-987654</value>
+    </field>
+    <field name="お客様注文番号">
+      <value>GC1234-5678</value>
+    </field>
+    <field name="Email">
+      <value>tarou.budojo@grapecity.com</value>
+    </field>
+    <field name="通信欄">
+      <value>特になし</value>
+    </field>
+    <field name="会社名EU">
+      <value></value>
+    </field>
+    <field name="氏名EU">
+      <value>葡萄城　太郎</value>
+    </field>
+    <field name="英語表記EU">
+      <value></value>
+    </field>
+    <field name="フリガナEU">
+      <value>ブドウジョウ　タロウ</value>
+    </field>
+    <field name="部署名EU">
+      <value></value>
+    </field>
+    <field name="TELEU">
+      <value>022-777-8888</value>
+    </field>
+    <field name="E-mail EU">
+      <value></value>
+    </field>
+    <field name="郵便番号EU">
+      <value></value>
+    </field>
+    <field name="住所EU">
+      <value></value>
+    </field>
+    <field name="Check Box25">
+      <value>Í¢</value>
+    </field>
+    <field name="銀行振込">
+      <value>Off</value>
+    </field>
+    <field name="クレジットカード">
+      <value>On</value>
+    </field>
+    <field name="個人EU">
+      <value>Off</value>
+    </field>
+    <field name="法人EU">
+      <value>On</value>
+    </field>
+    <field name="VISA">
+      <value>Off</value>
+    </field>
+    <field name="Master">
+      <value>Off</value>
+    </field>
+    <field name="DC">
+      <value>Off</value>
+    </field>
+    <field name="JCB">
+      <value>On</value>
+    </field>
+    <field name="Group1">
+      <value>@l</value>
+    </field>
+    <field name="有効期限/月">
+      <value>12</value>
+    </field>
+    <field name="有効期限/年">
+      <value>2020</value>
+    </field>
+  </fields>
+  <ids original="5D865129FE1E8F4EAC6342C961262678" modified="5D865129FE1E8F4EAC6342C961262678" />
+</xfdf>
