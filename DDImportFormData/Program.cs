@@ -12,28 +12,23 @@ namespace DDImportFormData
 
             var doc = new GcPdfDocument();
 
-            // Load the document
+            // PDFを読み込み
             doc.Load(new FileStream("grapecity_order_template.pdf", FileMode.Open, FileAccess.Read));
 
-            // FDF
-            // Open the FDF file
+            // FDFファイルからデータを入力
             //FileStream stream = new FileStream("FormData_FDF.fdf", FileMode.Open, FileAccess.Read);
-            // Import the form data
             //doc.ImportFormDataFromFDF(stream);  
 
-            // XFDF
-            // Open the XFDF file
+            // XFDFファイルからデータを入力
             FileStream stream = new FileStream("FormData_XFDF.xfdf", FileMode.Open, FileAccess.Read);
-            // Import the form data 
-            doc.ImportFormDataFromXFDF(stream);       
+            doc.ImportFormDataFromXFDF(stream);
 
-            // XML
-            //Open the XML file
+            // XMLファイルからデータを入力
             //FileStream stream = new FileStream("FormData_XML.xml", FileMode.Open, FileAccess.Read);
-            //Import the form data
             //doc.ImportFormDataFromXML(stream);        
 
-            doc.Save("grapecity_order_embed.pdf"); //Save the document
+            // PDFを保存
+            doc.Save("grapecity_order_embed.pdf");
         }
     }
 }
